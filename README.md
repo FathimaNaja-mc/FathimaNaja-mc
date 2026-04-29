@@ -33,4 +33,4 @@
 ---
 
 ## Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](linkedin.com/in/fathima-naja-mc)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/fathima-naja-mc)
