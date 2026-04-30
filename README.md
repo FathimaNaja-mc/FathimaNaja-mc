@@ -2,7 +2,7 @@
 
 # Hi, I'm Fathima Naja 👋
 
-🎯 Aspiring Data Analyst | SQL • Python • Power BI • Tableau • Excel
+🎯 Data Analyst | SQL • Python • Power BI • Tableau • Excel
 
 ---
 
